@@ -22,20 +22,38 @@
 ;
 ; -----------------------------------------------------------------------------
 
-(define sunny #true)
-(define friday #false)
+(define sunny  #false)
+(define friday #true)
 
 (or (not sunny) friday)
-; => #false
-; because it IS sunny and it isn't Friday
+; => #true
+
 
 
 ; Number of combinations that can be associated with `sunny` and `friday` are:
 ; 4
 
-; | sunny  | friday  |
-; |--------+---------|
-; | #true  | #true   |
-; | #true  | #false  |
-; | #false | #true   |
-; | #false | #false  |
+; | x      | y      | (or x y) |
+; |--------+--------+----------|
+; | #true  | #true  | #true    |
+; | #true  | #false | #true    |
+; | #false | #true  | #true    |
+; | #false | #false | #false   |
+
+; | x      | y      | (and x y) |
+; |--------+--------+-----------|
+; | #true  | #true  | #true     |
+; | #true  | #false | #false    |
+; | #false | #true  | #false    |
+; | #false | #false | #false    |
+
+
+; | sunny  | friday  | (not sunny) | (or (not sunny) friday) |
+; |--------+---------|-------------|-------------------------|
+; | #true  | #true   | #false      | #true
+; | #true  | #false  | #false      | #false
+; | #false | #true   | #true       | #true
+; | #false | #false  | #true       | #true
+
+
+
