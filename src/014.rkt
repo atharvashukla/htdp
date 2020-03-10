@@ -11,7 +11,7 @@
 ; version 1:
 
 (define (string-last str)
-  (string-ith str (sub1 (string-length str))))
+  (string-ith str (- (string-length str) 1)))
 
 ; version 2:
 
