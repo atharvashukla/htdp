@@ -7,7 +7,7 @@
 ; starting position of the cat. Furthermore, make the cat move three pixels per
 ; clock tick. Whenever the cat disappears on the right, it reappears on the
 ; left. You may wish to read up on the modulo function.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (require 2htdp/image)
 (require 2htdp/universe)
@@ -30,7 +30,7 @@
 ; placing the cat image on the scene:
 ; (place-image CAT1 50 Y-POS BACKGROUND)
 
-; ---------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 ; WorldState ws is a Number
 ; interpretation represents the distance from the starting position

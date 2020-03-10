@@ -31,7 +31,7 @@
 ;    > x
 ;    3
 ;    > y
-;   4
+;    4
 ;    > (+ x 10)
 ;    13
 ;    > (* x y)
@@ -51,8 +51,7 @@
 ; will soon show you a way to define functions, which makes reusing formulas
 ; straightforward. For now, we use this kind of exercise to call attention to
 ; the idea of functions and to prepare you for programming with them.
-;
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (define x 12)   ; (define x 3)
 (define y 5)    ; (define y 4)

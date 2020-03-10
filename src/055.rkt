@@ -11,7 +11,7 @@
 ; rocket and once to draw a flying rocket. Define an auxiliary function that
 ; performs this work and thus shorten show. Why is this a good idea? You may
 ; wish to reread Prologue: How to Program. 
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 
 (require 2htdp/image)

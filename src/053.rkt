@@ -8,7 +8,7 @@
 ; data and, conversely, to pick some data examples and to draw pictures that
 ; match them. Do so for the LR definition, including at least HEIGHT and 0 as
 ; examples.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (require 2htdp/image)
 (require 2htdp/universe)
@@ -70,7 +70,7 @@
  (place-image
   ROCKET SCN-MID-WIDTH
   (- HEIGHT CENTER) BACKG))
-s
+
 (define START 0)
 ; =>
 (place-image ROCKET SCN-MID-WIDTH (- 0 CENTER) BACKG) ;; < note the revealing offset

@@ -6,7 +6,7 @@
 ; Conversely, formulate a completely accurate condition, that is, a Boolean
 ; expression that evaluates to #true precisely when x belongs to the first
 ; sub-class of LRCD.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 
 ; (string? x) would evaluate to #true for any string, not just "resting"

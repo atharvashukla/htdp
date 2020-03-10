@@ -2,7 +2,6 @@
 
 ; Exercise 25.
 ; ------------
-;
 ; Take a look at this attempt to solve exercise 17:
 ;
 ;    (define (image-classify img)
@@ -12,8 +11,7 @@
 ;        [(<= (image-height img) (image-width img)) "wide"]))
 ;
 ; Does stepping through an application suggest a fix?
-;
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (require 2htdp/image)
 

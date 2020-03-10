@@ -10,7 +10,7 @@
 ; the top something curious happens. Explain. Add a stop-when clause to main2
 ; so that the simulation of the liftoff stops gracefully when the rocket is out
 ; of sight. 
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 
 ; interpretation of "height"

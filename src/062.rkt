@@ -5,7 +5,7 @@
 ; During a door simulation the “open” state is barely visible. Modify
 ; door-simulation so that the clock ticks once every three seconds. Rerun the
 ; simulation.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (require 2htdp/image)
 (require 2htdp/universe)

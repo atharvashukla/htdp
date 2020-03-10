@@ -5,7 +5,7 @@
 ; Introduce constant definitions that separate the intervals for low prices and
 ; luxury prices from the others so that the legislators in Tax Land can easily
 ; raise the taxes even more.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 #|
 +-------------------------------------------+

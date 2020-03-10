@@ -6,7 +6,7 @@
 ; duration. The program renders the state of a traffic light as a solid circle
 ; of the appropriate color, and it changes state on every clock tick. What is
 ; the most appropriate initial state? Ask your engineering friends.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (require 2htdp/image)
 (require 2htdp/universe)

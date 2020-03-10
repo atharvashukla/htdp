@@ -6,7 +6,7 @@
 ; of DrRacket and click RUN, DrRacket highlights two of the three cond lines.
 ; This coloring tells you that your test cases do not cover the full
 ; conditional. Add enough tests to make DrRacket happy.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 
 ; A TrafficLight is one of the following Strings:

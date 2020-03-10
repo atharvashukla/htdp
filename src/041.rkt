@@ -14,7 +14,7 @@
 ;
 ; to create a tree-like shape. Also add a clause to the big-bang expression
 ; that stops the animation when the car has disappeared on the right side. 
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 
 (require 2htdp/image)

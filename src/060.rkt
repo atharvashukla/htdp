@@ -20,7 +20,7 @@
 ;
 ; Does the tl-next function convey its intention more clearly than
 ; the tl-next-numeric function? If so, why? If not, why not? 
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 
 (require 2htdp/image)

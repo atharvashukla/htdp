@@ -10,7 +10,7 @@
 ; Then create an expression using string primitives that adds "_" at position
 ; i. In general this means the resulting string is longer than the original
 ; one; here the expected result is "hello_world".
-
+;
 ; Position means i characters from the left of the string, but programmers
 ; start counting at 0. Thus, the 5th letter in this example is "w", because
 ; the 0th letter is "h". Hint When you encounter such “counting problems” you
@@ -21,8 +21,7 @@
 ;    (define i 5)
 ; 
 ; See exercise 1 for how to create expressions in DrRacket.
-;
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (define str "helloworld")
 (define i 5)

@@ -49,7 +49,7 @@
 ; *Aside* The equal? function in figure 27 compares two arbitrary values,
 ; regardless of what these values are. Equality is a complicated topic in the
 ; world of programming. *End*
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 
 ; tl-next-symbolic is designed using the designed recipe for itemization

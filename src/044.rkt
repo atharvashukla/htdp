@@ -6,12 +6,12 @@
 ; from left to right, at the rate of three pixels per clock tick. If the mouse
 ; is clicked anywhere on the canvas, the car is placed at the x-coordinate of
 ; that click.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 ; Exercise 44.
 ; ------------
 ; Formulate the examples as BSL tests. Click RUN and watch them fail.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (require 2htdp/image)
 (require 2htdp/universe)

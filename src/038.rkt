@@ -4,7 +4,7 @@
 ; ------------
 ; Design the function string-remove-last, which produces a string like the
 ; given one with the last character removed. 
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 ; +-------------------------------------------+
 ; | The Design Recipe Card                    |

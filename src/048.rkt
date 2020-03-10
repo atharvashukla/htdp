@@ -5,7 +5,7 @@
 ; Enter the definitionf of reward followed by (reward 18) into the definitions
 ; area of DrRacket and use the stepper to find out how DrRacket evaluates
 ; applications of the function.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (define (reward s)
   (cond

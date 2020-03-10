@@ -33,7 +33,7 @@
 ; placing the cat image on the scene:
 ; (place-image CAT1 50 Y-POS BACKGROUND)
 
-; ---------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 ; WorldState ws is a Number
 ; interpretation represents the distance from the starting position

@@ -2,9 +2,7 @@
 
 ; Exercise 33.
 ; ------------
-;
 ; Research the “year 2000” problem. 
-;
 ; -----------------------------------------------------------------------------
 
 ; The Year 2000 problem, also known as Y2K, is a class of computer bugs

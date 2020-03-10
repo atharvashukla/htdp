@@ -9,7 +9,7 @@
 ;    (distance-to-origin 3 4)
 ;
 ; Does the explanation match your intuition?
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (define (distance-to-origin x y)
   (sqrt (+ (sqr x) (sqr y))))

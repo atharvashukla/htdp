@@ -6,7 +6,7 @@
 ; your DrRacket.
 ; 
 ;    (define cat <image of the cat>)
-;;
+;
 ; Create an expression that counts the number of pixels in the image. 
 ; ------------------------------------------------------------------------------
 

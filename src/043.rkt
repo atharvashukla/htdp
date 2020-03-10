@@ -22,8 +22,7 @@
 ;
 ; Use the data definition to design a program that moves the car according to
 ; a sine wave. (Don’t try to drive like that.) 
-;
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 
 (require 2htdp/image)

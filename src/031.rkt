@@ -38,7 +38,6 @@
 ;
 ; Create appropriate files, launch main, and check whether it delivers the
 ; expected letter in a given file.
-;
 ; -----------------------------------------------------------------------------
 
 (require 2htdp/batch-io)

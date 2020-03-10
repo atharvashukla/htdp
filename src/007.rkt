@@ -2,7 +2,6 @@
 
 ; Exercise 7.
 ; -----------
-;
 ; Boolean expressions can express some everyday problems. Suppose you want to
 ; decide whether today is an appropriate day to go to the mall. You go to the
 ; mall either if it is not sunny or if today is Friday (because that is when
@@ -19,8 +18,7 @@
 ;
 ; See exercise 1 for how to create expressions in DrRacket. How many
 ; combinations of Booleans can you associate with sunny and friday? 
-;
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (define sunny  #false)
 (define friday #true)
@@ -50,10 +48,10 @@
 
 ; | sunny  | friday  | (not sunny) | (or (not sunny) friday) |
 ; |--------+---------|-------------|-------------------------|
-; | #true  | #true   | #false      | #true
-; | #true  | #false  | #false      | #false
-; | #false | #true   | #true       | #true
-; | #false | #false  | #true       | #true
+; | #true  | #true   | #false      | #true                   |
+; | #true  | #false  | #false      | #false                  |
+; | #false | #true   | #true       | #true                   |
+; | #false | #false  | #true       | #true                   |
 
 
 

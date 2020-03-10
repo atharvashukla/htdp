@@ -29,7 +29,7 @@
 ; with the functions from the 2htdp/image library, design an auxiliary function
 ; for creating the image of a one-color bulb. Then read up on the place-image
 ; function, which can place bulbs into a background scene.
-; -----------------------------------------------------------------------------
+; ------------------------------------------------------------------------------
 
 (require 2htdp/image)
 (require 2htdp/universe)
