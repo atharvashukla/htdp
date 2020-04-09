@@ -136,6 +136,7 @@
      [stop-when stop?]
      [to-draw render]))
 
+#;
 (main 13)
 
 
@@ -151,4 +152,84 @@
 ; moves the car according to a sine wave. (Don’t try
 ; to drive like that.)
 
-; see 43ex-sin.rkt
+
+(define AMPLITUDE 5)
+
+
+; AnimationState -> AnimationState
+; y position of the car at a given animationstate
+(define (y-pos ws)
+  ; Offsetting by Amplitude so
+  ; the car doesn't sink into the ground
+  (+ (- Y-CAR AMPLITUDE)
+     (* AMPLITUDE (sin ws))))
+
+; amplitude is 5 here, car position is 185
+(check-expect (y-pos 0) 180)
+
+; (sin 1) == #i0.8414709848078965
+(check-within (y-pos 1) (+ 4.20735 180) 0.001)
+
+
+;    ; An AnimationState is a Number.
+;    ; interpretation the number of clock ticks 
+;    ; since the animation started
+
+; ----- ON-TICK ------
+
+; AnimationState -> AnimationState 
+; increases the # of clock tick by 1 per clock tick
+(define (tock-sin ws)
+  (+ ws 1))
+
+
+(check-expect (tock-sin 20) 21)
+(check-expect (tock-sin 78) 79)
+
+; ----- TO-DRAW ------
+
+; Velocity
+(define V-sin 3)
+
+; Number -> number
+; distance is velocity times time
+(define (distance-sin t)
+  (* V-sin t))
+
+; AnimationState -> Image
+; places the car into the BACKGROUND scene,
+; according to the given world state 
+(define (render-sin ws)
+  (place-image CAR (distance-sin ws) (y-pos ws) BACKGROUND))
+
+
+(check-expect (place-image CAR 150 (y-pos 50) BACKGROUND) (render-sin 50))
+(check-expect (place-image CAR 300 (y-pos 100) BACKGROUND) (render-sin 100))
+(check-expect (place-image CAR 450 (y-pos 150) BACKGROUND) (render-sin 150))
+(check-expect (place-image CAR 600 (y-pos 200) BACKGROUND) (render-sin 200))
+
+
+; ----- STOP-WHEN -----
+
+; AnimationState -> Boolean
+; is the tail of the car at the right edge?
+(define (stop?-sin ws)
+  (>= (distance ws) (+ WIDTH-OF-WORLD (* 1/2 CAR-WIDTH))))
+
+(check-expect (stop?-sin (distance 1000)) #true)
+(check-expect (stop?-sin (distance 1)) #false)
+(check-expect (stop?-sin 66) #false)
+
+
+
+; ----- BIG-BANG -----
+
+; AnimationState -> AnimationState
+(define (main-sin ws)
+  (big-bang ws
+    [on-tick tock-sin]
+    [stop-when stop?]
+    [to-draw render-sin]))
+
+#;
+(main-sin 13)
