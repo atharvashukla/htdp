@@ -2,7 +2,21 @@
 
 ; Exercise 55.
 ; ------------
-; Take another look at show. It contains three instances of an expression with
+;
+; (define (show x)
+;   (cond
+;     [(string? x)
+;      (place-image ROCKET 10 (- HEIGHT CENTER) BACKG)]
+;     [(<= -3 x -1)
+;      (place-image (text (number->string x) 20 "red")
+;                   10 (* 3/4 WIDTH)
+;                   (place-image ROCKET
+;                                10 (- HEIGHT CENTER)
+;                                BACKG))]
+;     [(>= x 0)
+;      (place-image ROCKET 10 (- x CENTER) BACKG)]))
+;
+; Take another look at `show`. It contains three instances of an expression with
 ; the approximate shape:
 ;
 ;     (place-image ROCKET 10 (- ... CENTER) BACKG)
