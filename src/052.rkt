@@ -5,6 +5,13 @@
 ; Which integers are contained in the four intervals above? 
 ; ------------------------------------------------------------------------------
 
+(require 2htdp/image)
+
+(bitmap "range1.png")
+(bitmap "range2.png")
+(bitmap "range3.png")
+(bitmap "range4.png")
+
 ; [3,5] is a closed interval
 ; -> 3, 4, 5
 
