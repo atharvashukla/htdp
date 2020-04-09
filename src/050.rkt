@@ -2,6 +2,16 @@
 
 ; Exercise 50.
 ; ------------
+;
+; ; TrafficLight -> TrafficLight
+; ; yields the next state given current state s
+; (check-expect (traffic-light-next "red") "green")
+; (define (traffic-light-next s)
+;   (cond
+;     [(string=? "red" s) "green"]
+;     [(string=? "green" s) "yellow"]
+;     [(string=? "yellow" s) "red"]))
+;
 ; If you copy and paste the above function definition into the definitions area
 ; of DrRacket and click RUN, DrRacket highlights two of the three cond lines.
 ; This coloring tells you that your test cases do not cover the full
