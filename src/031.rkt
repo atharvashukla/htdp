@@ -67,11 +67,6 @@
    "\n\n")) ; <- added an extra \n here to make 'stdout print on a new line
 
 
-
-
-
-
-
 (define (main in-fst in-lst in-signature out)
   (write-file out
               (letter (read-file in-fst)
@@ -87,5 +82,3 @@
 
 ; reading the letter.txt and writing to  stdout to verify
 (write-file 'stdout (read-file "letter.txt"))
-
-; checks out
