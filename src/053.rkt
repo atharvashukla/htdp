@@ -2,6 +2,16 @@
 
 ; Exercise 53.
 ; ------------
+;
+; An LR (short for launching rocket) is one of:
+; – "resting"
+; – NonnegativeNumber
+; interpretation "resting" represents a grounded rocket
+; a number denotes the height of a rocket in flight
+;
+; the word “height” could refer to the distance between the ground and the
+; rocket’s point of reference, say, its center
+;
 ; The design recipe for world programs demands that you translate information
 ; into data and vice versa to ensure a complete understanding of the data
 ; definition. It’s best to draw some world scenarios and to represent them with
@@ -73,12 +83,10 @@
 
 (define START 0)
 ; =>
-(place-image ROCKET SCN-MID-WIDTH (- 0 CENTER) BACKG) ;; < note the revealing offset
+(place-image ROCKET SCN-MID-WIDTH (- 0 CENTER) BACKG)
+;; ^ note the revealing offset
 
 (define END HEIGHT)
 ; =>
-(place-image ROCKET SCN-MID-WIDTH (- HEIGHT CENTER) BACKG) ;; to not sink the rocket
-
-; ------------
-
-
+(place-image ROCKET SCN-MID-WIDTH (- HEIGHT CENTER) BACKG)
+;; ^ to not sink the rocket
