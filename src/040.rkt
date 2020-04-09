@@ -13,12 +13,9 @@
 ;   given: 20, expect 23
 ;   given: 78, expect 81
 (define (tock ws)
-  #;(+ ws 1) ;; <- introducing a mistake
+  #;(+ ws 1) ; <- introducing a mistake
   (+ ws 3))
 
 
 (check-expect (tock 20) 23)
 (check-expect (tock 78) 81)
-
-
-; breaks
