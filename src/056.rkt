@@ -148,5 +148,5 @@
     [stop-when stop-rocket]
     [on-key launch]))
 
-
+#;
 (main2 "resting")
