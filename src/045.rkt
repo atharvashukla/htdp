@@ -22,6 +22,7 @@
 (define CAT-HEIGHT (image-height CAT1))
 (define CAT-WIDTH (image-width CAT1))
 (define CAT-MID-HEIGHT (/ CAT-HEIGHT 2))
+(define CAT-MID-WIDTH (/ CAT-WIDTH 2))
 
 ; y-coordinate of the proper place of the cat on the scene
 ; sub1 to not cover the empty-scene edge line by the image
@@ -49,11 +50,12 @@
 
 (check-expect (tock 10) 13)
 (check-expect (tock 0) 3)
-(check-expect (tock 300) 0)
+(check-expect (tock 300) 303)
+(check-expect (tock (+ 300 CAT-MID-WIDTH)) (* -1 CAT-MID-WIDTH))
 
 (define (tock ws)
-  (if (>= ws SCENE-WIDTH)
-      (modulo ws SCENE-WIDTH)
+  (if (>= ws (+ SCENE-WIDTH CAT-MID-WIDTH))
+      (- 0 CAT-MID-WIDTH)
       (+ 3 ws)))
 
 ; WorldState -> WorldState

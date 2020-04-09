@@ -25,6 +25,7 @@
 (define CAT-HEIGHT (image-height CAT1))
 (define CAT-WIDTH (image-width CAT1))
 (define CAT-CENTER-Y-POS (/ CAT-HEIGHT 2))
+(define CAT-CENTER-X-POS (/ CAT-WIDTH 2))
 
 ; y-coordinate of the proper place of the cat on the scene
 ; sub1 to not cover the empty-scene edge line by the image
@@ -54,11 +55,11 @@
 
 (check-expect (tock 10) 13)
 (check-expect (tock 0) 3)
-(check-expect (tock 300) 0)
+(check-expect (tock 400) -37)
 
 (define (tock ws)
-  (if (>= ws SCENE-WIDTH)
-      (modulo ws SCENE-WIDTH)
+  (if (>= ws (+ SCENE-WIDTH CAT-CENTER-X-POS))
+      (- 0 (floor CAT-CENTER-X-POS))
       (+ 3 ws)))
 
 
@@ -69,4 +70,5 @@
     [on-tick tock]
     [to-draw render]))
 
+#;
 (cat-prog 0)
