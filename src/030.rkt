@@ -8,7 +8,7 @@
 ; ------------------------------------------------------------------------------
 
 ; Constant Definitions
-(define PERCENT-CHANGE  0.1)
+(define PRICE-CHANGE    0.1)
 (define PEOPLE-CHANGE   15)
 (define BASE-POPULATION 120)
 (define BASE-PRICE      5)
@@ -16,8 +16,8 @@
 (define FIXED-COST      180)
 (define VARIABLE-COST   0.04)
 
-; The new constant:
-(define PRICE-SENSITIVITY-OF-ATTENDANCE (/ PEOPLE-CHANGE PERCENT-CHANGE))
+; The new computed constant:
+(define PRICE-SENSITIVITY-OF-ATTENDANCE (/ PEOPLE-CHANGE PRICE-CHANGE))
 
 ; Functions
 (define (attendees ticket-price)
