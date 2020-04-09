@@ -13,13 +13,13 @@
 
 ; Different events software systems in bio-computers may have to deal with:
 ; 
-; 1.  Eye movement
-; 2.  Brain signals
-; 3.  Hormoral fluctuations
-; 4.  Ambient sound
-; 5.  Temperature
-; 6.  Blood pressure
-; 7.  Human voices
-; 8.  Movement
-; 9.  Object recognition
+; 01.  Eye movement
+; 02.  Brain signals
+; 03.  Hormoral fluctuations
+; 04.  Ambient sound
+; 05.  Temperature
+; 06.  Blood pressure
+; 07.  Human voices
+; 08.  Movement
+; 09.  Object recognition
 ; 10. Facial expression/body language
