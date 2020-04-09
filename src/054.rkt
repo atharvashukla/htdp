@@ -10,6 +10,12 @@
 
 
 ; (string? x) would evaluate to #true for any string, not just "resting"
-; A more more accurate clause would be:
-#;
+; (string=? "resting" x) would error if x is not a string
+
+#;; Version 1
 (equal? x "resting")
+
+#;; Version 2
+(and (string? x) (string=? x "resting"))
+
+; Version 2 is better.
