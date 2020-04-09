@@ -11,19 +11,19 @@
 ; -----------------------------------------------------------------------------
 
 ; Constant Definitions
-(define PERCENT-CHANGE  0.1)
+(define PRICE-CHANGE    0.1)
 (define PEOPLE-CHANGE   15)
 (define BASE-POPULATION 120)
 (define BASE-PRICE      5)
 
 (define FIXED-COST      0) ; <= changed to 0
-(define VARIABLE-COST   0.04)
+(define VARIABLE-COST   1.50)
 
 ; Functions
 (define (attendees ticket-price)
   (- BASE-POPULATION
      (* (- ticket-price BASE-PRICE)
-        (/ PEOPLE-CHANGE PERCENT-CHANGE))))
+        (/ PEOPLE-CHANGE PRICE-CHANGE))))
 
 (define (revenue ticket-price)
   (* ticket-price (attendees ticket-price)))
@@ -35,10 +35,28 @@
   (- (revenue ticket-price)
      (cost ticket-price)))
 
-
 (profit 3)
-; => 1243.2
+; => 630
 (profit 4)
-; => 1069.2
+; => 675
 (profit 5)
-; => 595.2
+; => 420
+
+(define (profit-ugly-version price)
+  (- (* (+ 120
+           (* (/ 15 0.1)
+              (- 5.0 price)))
+        price)
+     (+ 0
+        (* 1.50
+           (+ 120
+              (* (/ 15 0.1)
+                 (- 5.0 price)))))))
+
+
+(profit-ugly-version 3)
+; => 630
+(profit-ugly-version 4)
+; => 675
+(profit-ugly-version 5)
+; => 420
