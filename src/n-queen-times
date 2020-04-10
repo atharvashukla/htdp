@@ -1,0 +1,12 @@
+> (map (λ (x) (time (local ((define y (render-n-queens x))) x))) (build-list 10 (λ (x) (+ x 4))))
+cpu time: 2 real time: 1 gc time: 0
+cpu time: 1 real time: 0 gc time: 0
+cpu time: 226 real time: 231 gc time: 48
+cpu time: 5 real time: 6 gc time: 3
+cpu time: 7600 real time: 7656 gc time: 1159
+cpu time: 2440 real time: 2473 gc time: 387
+cpu time: 49055 real time: 49462 gc time: 3576
+cpu time: 11640 real time: 11665 gc time: 197
+cpu time: 1107048 real time: 1115306 gc time: 34452
+cpu time: 321023 real time: 327560 gc time: 31895
+(list 4 5 6 7 8 9 10 11 12 13)

@@ -1,0 +1,2131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-04-20T05:39:01Z</date>
+	<key>Application Version</key><string>12.7.3.46</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>01DC2C2967508DB0</string>
+	<key>Tracks</key>
+	<dict>
+		<key>603</key>
+		<dict>
+			<key>Track ID</key><integer>603</integer>
+			<key>Name</key><string>Call It Stormy Monday (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Aaron Walker</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>19043937</integer>
+			<key>Total Time</key><integer>540167</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:50Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3606840058</integer>
+			<key>Play Date UTC</key><date>2018-04-18T00:00:58Z</date>
+			<key>Skip Date</key><date>2018-03-11T15:54:15Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>1964</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Call It Stormy Monday (Live)</string>
+			<key>Persistent ID</key><string>4547E75FEF58A86A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/01%20Call%20It%20Stormy%20Monday%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>605</key>
+		<dict>
+			<key>Track ID</key><integer>605</integer>
+			<key>Name</key><string>Old Times (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2980784</integer>
+			<key>Total Time</key><integer>75627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:48Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3606840133</integer>
+			<key>Play Date UTC</key><date>2018-04-18T00:02:13Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>785</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Old Times (Live)</string>
+			<key>Persistent ID</key><string>B0FD0706A8AEB5E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/02%20Old%20Times%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>607</key>
+		<dict>
+			<key>Track ID</key><integer>607</integer>
+			<key>Name</key><string>Pride and Joy (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Stevie Ray Vaughan</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12357238</integer>
+			<key>Total Time</key><integer>360388</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:49Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3605723326</integer>
+			<key>Play Date UTC</key><date>2018-04-05T01:48:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-09T13:40:32Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>2969</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Pride and Joy (Live)</string>
+			<key>Persistent ID</key><string>05E19D2B37ECF097</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/03%20Pride%20and%20Joy%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>609</key>
+		<dict>
+			<key>Track ID</key><integer>609</integer>
+			<key>Name</key><string>Ask Me No Questions (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>B.B. King</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10833457</integer>
+			<key>Total Time</key><integer>301123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:49Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3605724070</integer>
+			<key>Play Date UTC</key><date>2018-04-05T02:01:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-04-15T15:48:06Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>2668</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Ask Me No Questions (Live)</string>
+			<key>Persistent ID</key><string>A7C46CD830DD005E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/04%20Ask%20Me%20No%20Questions%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>611</key>
+		<dict>
+			<key>Track ID</key><integer>611</integer>
+			<key>Name</key><string>Pep Talk (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2087600</integer>
+			<key>Total Time</key><integer>52033</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:49Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3605724122</integer>
+			<key>Play Date UTC</key><date>2018-04-05T02:02:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-04-15T15:48:11Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>890</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Pep Talk (Live)</string>
+			<key>Persistent ID</key><string>1067DDFF0CF02E42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/05%20Pep%20Talk%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>613</key>
+		<dict>
+			<key>Track ID</key><integer>613</integer>
+			<key>Name</key><string>Blues At Sunrise (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Albert King</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>30455829</integer>
+			<key>Total Time</key><integer>909907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:50Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3606638601</integer>
+			<key>Play Date UTC</key><date>2018-04-15T16:03:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-20T03:16:29Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>1604</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Blues At Sunrise (Live)</string>
+			<key>Persistent ID</key><string>1F4B9B27445182A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/06%20Blues%20At%20Sunrise%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>615</key>
+		<dict>
+			<key>Track ID</key><integer>615</integer>
+			<key>Name</key><string>Turn It Over (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2399122</integer>
+			<key>Total Time</key><integer>50513</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:50Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3606638652</integer>
+			<key>Play Date UTC</key><date>2018-04-15T16:04:12Z</date>
+			<key>Skip Date</key><date>2018-03-05T21:58:31Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>1176</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Turn It Over (Live)</string>
+			<key>Persistent ID</key><string>0B34AC655A14223E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/07%20Turn%20It%20Over%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>617</key>
+		<dict>
+			<key>Track ID</key><integer>617</integer>
+			<key>Name</key><string>Overall Junction (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Albert King</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18560743</integer>
+			<key>Total Time</key><integer>500142</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:55Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3606639152</integer>
+			<key>Play Date UTC</key><date>2018-04-15T16:12:32Z</date>
+			<key>Skip Date</key><date>2018-03-11T15:54:03Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>3544</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Overall Junction (Live)</string>
+			<key>Persistent ID</key><string>DFF4BA72B7628139</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/08%20Overall%20Junction%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>619</key>
+		<dict>
+			<key>Track ID</key><integer>619</integer>
+			<key>Name</key><string>Match Box Blues (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Albert King</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15778345</integer>
+			<key>Total Time</key><integer>459640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:54Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606639611</integer>
+			<key>Play Date UTC</key><date>2018-04-15T16:20:11Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>1484</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Match Box Blues (Live)</string>
+			<key>Persistent ID</key><string>FBEB43D0DF3C0218</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/09%20Match%20Box%20Blues%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>621</key>
+		<dict>
+			<key>Track ID</key><integer>621</integer>
+			<key>Name</key><string>Who Is Stevie? (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2063137</integer>
+			<key>Total Time</key><integer>43603</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:52Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606639655</integer>
+			<key>Play Date UTC</key><date>2018-04-15T16:20:55Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>617</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Who Is Stevie? (Live)</string>
+			<key>Persistent ID</key><string>31FB9AF57C136E4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/10%20Who%20Is%20Stevie_%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>623</key>
+		<dict>
+			<key>Track ID</key><integer>623</integer>
+			<key>Name</key><string>Don't Lie to Me (Live)</string>
+			<key>Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Album Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Composer</key><string>Hudson Whittaker</string>
+			<key>Album</key><string>In Session (Live)</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18339996</integer>
+			<key>Total Time</key><integer>537891</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2018-03-11T18:06:55Z</date>
+			<key>Date Added</key><date>2018-03-11T18:05:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Date</key><integer>3603458987</integer>
+			<key>Play Date UTC</key><date>2018-03-09T21:49:47Z</date>
+			<key>Release Date</key><date>1999-08-17T07:00:00Z</date>
+			<key>Normalization</key><integer>2410</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Session (Live)</string>
+			<key>Sort Artist</key><string>Albert King &#38; Stevie Ray Vaughan</string>
+			<key>Sort Name</key><string>Don't Lie to Me (Live)</string>
+			<key>Persistent ID</key><string>8B54177052B5AD2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Albert%20King%20&#38;%20Stevie%20Ray%20Vaughan/In%20Session%20(Live)/11%20Don't%20Lie%20to%20Me%20(Live).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1167</key>
+		<dict>
+			<key>Track ID</key><integer>1167</integer>
+			<key>Name</key><string>Brianstorm</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6480692</integer>
+			<key>Total Time</key><integer>172253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:12Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3606852271</integer>
+			<key>Play Date UTC</key><date>2018-04-18T03:24:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-12T22:01:41Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>10448</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>Brianstorm</string>
+			<key>Persistent ID</key><string>5114AFC5F8EC5BE3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/01%20Brianstorm.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1169</key>
+		<dict>
+			<key>Track ID</key><integer>1169</integer>
+			<key>Name</key><string>Teddy Picker</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6509502</integer>
+			<key>Total Time</key><integer>165146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:11Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3606852436</integer>
+			<key>Play Date UTC</key><date>2018-04-18T03:27:16Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>9706</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>Teddy Picker</string>
+			<key>Persistent ID</key><string>E43C05D39F907DDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/02%20Teddy%20Picker.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1171</key>
+		<dict>
+			<key>Track ID</key><integer>1171</integer>
+			<key>Name</key><string>D Is for Dangerous</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5266688</integer>
+			<key>Total Time</key><integer>138106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:09Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3606852575</integer>
+			<key>Play Date UTC</key><date>2018-04-18T03:29:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-12T22:01:48Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>6463</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>D Is for Dangerous</string>
+			<key>Persistent ID</key><string>2AFBD74F243DE7E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/03%20D%20Is%20for%20Dangerous.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1173</key>
+		<dict>
+			<key>Track ID</key><integer>1173</integer>
+			<key>Name</key><string>Balaclava</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6311531</integer>
+			<key>Total Time</key><integer>171226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:15Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3606852746</integer>
+			<key>Play Date UTC</key><date>2018-04-18T03:32:26Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>9127</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>Balaclava</string>
+			<key>Persistent ID</key><string>36F176B94DC4AF48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/04%20Balaclava.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1175</key>
+		<dict>
+			<key>Track ID</key><integer>1175</integer>
+			<key>Name</key><string>Fluorescent Adolescent</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6314359</integer>
+			<key>Total Time</key><integer>179533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:16Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3606852925</integer>
+			<key>Play Date UTC</key><date>2018-04-18T03:35:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-03-23T17:02:54Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>6817</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>Fluorescent Adolescent</string>
+			<key>Persistent ID</key><string>72941F111223B5EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/05%20Fluorescent%20Adolescent.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1177</key>
+		<dict>
+			<key>Track ID</key><integer>1177</integer>
+			<key>Name</key><string>Only Ones Who Know</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6924511</integer>
+			<key>Total Time</key><integer>184760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:17Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3606225060</integer>
+			<key>Play Date UTC</key><date>2018-04-10T21:11:00Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-03-28T22:53:05Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>2133</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>Only Ones Who Know</string>
+			<key>Persistent ID</key><string>95515E68A0C790D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/06%20Only%20Ones%20Who%20Know.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1179</key>
+		<dict>
+			<key>Track ID</key><integer>1179</integer>
+			<key>Name</key><string>Do Me a Favour</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7658984</integer>
+			<key>Total Time</key><integer>209253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:27Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3606225269</integer>
+			<key>Play Date UTC</key><date>2018-04-10T21:14:29Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>6278</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>Do Me a Favour</string>
+			<key>Persistent ID</key><string>80BB3E319F027F1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/07%20Do%20Me%20a%20Favour.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1181</key>
+		<dict>
+			<key>Track ID</key><integer>1181</integer>
+			<key>Name</key><string>This House Is a Circus</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6931837</integer>
+			<key>Total Time</key><integer>191680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:21Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3606225461</integer>
+			<key>Play Date UTC</key><date>2018-04-10T21:17:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-17T08:09:33Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>7340</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>This House Is a Circus</string>
+			<key>Persistent ID</key><string>89C6CC179D4AC732</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/08%20This%20House%20Is%20a%20Circus.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1183</key>
+		<dict>
+			<key>Track ID</key><integer>1183</integer>
+			<key>Name</key><string>If You Were There, Beware</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10385224</integer>
+			<key>Total Time</key><integer>276200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:23Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3605548627</integer>
+			<key>Play Date UTC</key><date>2018-04-03T01:17:07Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>5798</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>If You Were There, Beware</string>
+			<key>Persistent ID</key><string>26FDEF0983B4CA3B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/09%20If%20You%20Were%20There,%20Beware.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1185</key>
+		<dict>
+			<key>Track ID</key><integer>1185</integer>
+			<key>Name</key><string>The Bad Thing</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5445680</integer>
+			<key>Total Time</key><integer>145213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:24Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3605548772</integer>
+			<key>Play Date UTC</key><date>2018-04-03T01:19:32Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>9081</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>Bad Thing</string>
+			<key>Persistent ID</key><string>B19FF5C6AEAB0B44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/10%20The%20Bad%20Thing.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1187</key>
+		<dict>
+			<key>Track ID</key><integer>1187</integer>
+			<key>Name</key><string>Old Yellow Bricks</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7005376</integer>
+			<key>Total Time</key><integer>193226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:25Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3605548965</integer>
+			<key>Play Date UTC</key><date>2018-04-03T01:22:45Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>7976</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>Old Yellow Bricks</string>
+			<key>Persistent ID</key><string>F5A782FF76E2B3A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/11%20Old%20Yellow%20Bricks.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1189</key>
+		<dict>
+			<key>Track ID</key><integer>1189</integer>
+			<key>Name</key><string>505</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album Artist</key><string>Arctic Monkeys</string>
+			<key>Composer</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9511222</integer>
+			<key>Total Time</key><integer>253586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-03-12T21:38:27Z</date>
+			<key>Date Added</key><date>2018-03-12T21:38:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3605549219</integer>
+			<key>Play Date UTC</key><date>2018-04-03T01:26:59Z</date>
+			<key>Release Date</key><date>2007-04-20T07:00:00Z</date>
+			<key>Normalization</key><integer>6563</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Favourite Worst Nightmare</string>
+			<key>Sort Artist</key><string>Arctic Monkeys</string>
+			<key>Sort Name</key><string>505</string>
+			<key>Persistent ID</key><string>F4A0344EAA653C97</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Arctic%20Monkeys/Favourite%20Worst%20Nightmare/12%20505.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1353</key>
+		<dict>
+			<key>Track ID</key><integer>1353</integer>
+			<key>Name</key><string>It Is Not Meant to Be</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11002469</integer>
+			<key>Total Time</key><integer>322173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:24:55Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3607032808</integer>
+			<key>Play Date UTC</key><date>2018-04-20T05:33:28Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>5703</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>It Is Not Meant to Be</string>
+			<key>Persistent ID</key><string>3623A95762FA104A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-01%20It%20Is%20Not%20Meant%20to%20Be.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1355</key>
+		<dict>
+			<key>Track ID</key><integer>1355</integer>
+			<key>Name</key><string>Desire Be Desire Go</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9321909</integer>
+			<key>Total Time</key><integer>266160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-04-12T14:42:30Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3606925618</integer>
+			<key>Play Date UTC</key><date>2018-04-18T23:46:58Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>5055</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Desire Be Desire Go</string>
+			<key>Persistent ID</key><string>EC2F1E848FE7E4B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-02%20Desire%20Be%20Desire%20Go.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1357</key>
+		<dict>
+			<key>Track ID</key><integer>1357</integer>
+			<key>Name</key><string>Alter Ego</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10083247</integer>
+			<key>Total Time</key><integer>287613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:24:58Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3606925906</integer>
+			<key>Play Date UTC</key><date>2018-04-18T23:51:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-17T23:10:55Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>6011</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Alter Ego</string>
+			<key>Persistent ID</key><string>88ED1DEB05C10D0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-03%20Alter%20Ego.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1359</key>
+		<dict>
+			<key>Track ID</key><integer>1359</integer>
+			<key>Name</key><string>Lucidity</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9530751</integer>
+			<key>Total Time</key><integer>271880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:24:59Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3606926178</integer>
+			<key>Play Date UTC</key><date>2018-04-18T23:56:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-04-17T23:11:00Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>3434</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Lucidity</string>
+			<key>Persistent ID</key><string>6A3A3D578BAC049E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-04%20Lucidity.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1361</key>
+		<dict>
+			<key>Track ID</key><integer>1361</integer>
+			<key>Name</key><string>Why Won't You Make up Your Mind?</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7357570</integer>
+			<key>Total Time</key><integer>199320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:24:59Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3606926377</integer>
+			<key>Play Date UTC</key><date>2018-04-18T23:59:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-17T23:11:06Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>5452</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Why Won't You Make up Your Mind?</string>
+			<key>Persistent ID</key><string>13A581A26DA410FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-05%20Why%20Won't%20You%20Make%20up%20Your%20Mind_.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1363</key>
+		<dict>
+			<key>Track ID</key><integer>1363</integer>
+			<key>Name</key><string>Solitude Is Bliss</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8296825</integer>
+			<key>Total Time</key><integer>235840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:02Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3606926613</integer>
+			<key>Play Date UTC</key><date>2018-04-19T00:03:33Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>4541</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Solitude Is Bliss</string>
+			<key>Persistent ID</key><string>2250AD2E1C9FA43E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-06%20Solitude%20Is%20Bliss.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1365</key>
+		<dict>
+			<key>Track ID</key><integer>1365</integer>
+			<key>Name</key><string>Jeremy's Storm</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12043882</integer>
+			<key>Total Time</key><integer>328413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:03Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3606926941</integer>
+			<key>Play Date UTC</key><date>2018-04-19T00:09:01Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>4012</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Jeremy's Storm</string>
+			<key>Persistent ID</key><string>ADFAFBDCC8B84E4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-07%20Jeremy's%20Storm.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1367</key>
+		<dict>
+			<key>Track ID</key><integer>1367</integer>
+			<key>Name</key><string>Expectation</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13124986</integer>
+			<key>Total Time</key><integer>362880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:04Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3606927304</integer>
+			<key>Play Date UTC</key><date>2018-04-19T00:15:04Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>4804</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Expectation</string>
+			<key>Persistent ID</key><string>C993F21B6EFACDCC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-08%20Expectation.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1369</key>
+		<dict>
+			<key>Track ID</key><integer>1369</integer>
+			<key>Name</key><string>The Bold Arrow of Time</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8366077</integer>
+			<key>Total Time</key><integer>228706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:07Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3606927533</integer>
+			<key>Play Date UTC</key><date>2018-04-19T00:18:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-16T06:42:43Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>4120</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Bold Arrow of Time</string>
+			<key>Persistent ID</key><string>D3F83191F61B1C3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-09%20The%20Bold%20Arrow%20of%20Time.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1371</key>
+		<dict>
+			<key>Track ID</key><integer>1371</integer>
+			<key>Name</key><string>Runway Houses City Clouds</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15726971</integer>
+			<key>Total Time</key><integer>435053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:07Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606851379</integer>
+			<key>Play Date UTC</key><date>2018-04-18T03:09:39Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>4345</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Runway Houses City Clouds</string>
+			<key>Persistent ID</key><string>C0414D4AD2C7ECFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-10%20Runway%20Houses%20City%20Clouds.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1373</key>
+		<dict>
+			<key>Track ID</key><integer>1373</integer>
+			<key>Name</key><string>I Don't Really Mind</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8062189</integer>
+			<key>Total Time</key><integer>226693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:06Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3606851605</integer>
+			<key>Play Date UTC</key><date>2018-04-18T03:13:25Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>4001</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>I Don't Really Mind</string>
+			<key>Persistent ID</key><string>51D89EA7085A8C79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/1-11%20I%20Don't%20Really%20Mind.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1375</key>
+		<dict>
+			<key>Track ID</key><integer>1375</integer>
+			<key>Name</key><string>Sundown Syndrome</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12219964</integer>
+			<key>Total Time</key><integer>349773</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-04-18T23:44:10Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-04-18T03:21:39Z</date>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>3429</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Sundown Syndrome</string>
+			<key>Persistent ID</key><string>C625A8D904B83448</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/2-01%20Sundown%20Syndrome.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1377</key>
+		<dict>
+			<key>Track ID</key><integer>1377</integer>
+			<key>Name</key><string>Remember Me</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Alexis James Blackmore, Robert Eugene Miller, Richard Lee Evans &#38; Marlena Shaw</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9165949</integer>
+			<key>Total Time</key><integer>261053</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:09Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>2829</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Remember Me</string>
+			<key>Persistent ID</key><string>E38B5E1F4509D1A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/2-02%20Remember%20Me.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1379</key>
+		<dict>
+			<key>Track ID</key><integer>1379</integer>
+			<key>Name</key><string>Half Full Glass of Wine</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9330401</integer>
+			<key>Total Time</key><integer>266160</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:08Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>2496</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Half Full Glass of Wine</string>
+			<key>Persistent ID</key><string>3E49148F97579430</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/2-03%20Half%20Full%20Glass%20of%20Wine.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1381</key>
+		<dict>
+			<key>Track ID</key><integer>1381</integer>
+			<key>Name</key><string>Wander</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11072858</integer>
+			<key>Total Time</key><integer>314120</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:09Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>2639</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Wander</string>
+			<key>Persistent ID</key><string>74B333A1F8412E6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/2-04%20Wander.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1383</key>
+		<dict>
+			<key>Track ID</key><integer>1383</integer>
+			<key>Name</key><string>Why Won't You Make up Your Mind? (Erol Alkan Rework)</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>17746677</integer>
+			<key>Total Time</key><integer>494053</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:11Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>2211</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Why Won't You Make up Your Mind? (Erol Alkan Rework)</string>
+			<key>Persistent ID</key><string>B420D1BD1C52DA16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/2-05%20Why%20Won't%20You%20Make%20up%20Your%20Mind_%20(Erol%20Alkan%20Rework).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1385</key>
+		<dict>
+			<key>Track ID</key><integer>1385</integer>
+			<key>Name</key><string>Lucidity (Pilooski Remix)</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11455198</integer>
+			<key>Total Time</key><integer>329880</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:15Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>4276</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Lucidity (Pilooski Remix)</string>
+			<key>Persistent ID</key><string>CFE0DC83529590C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/2-06%20Lucidity%20(Pilooski%20Remix).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1387</key>
+		<dict>
+			<key>Track ID</key><integer>1387</integer>
+			<key>Name</key><string>Solitude Is Bliss (Mickey Moonlight T.A.M Remix)</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8507309</integer>
+			<key>Total Time</key><integer>240520</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:14Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>2805</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Solitude Is Bliss (Mickey Moonlight T.A.M Remix)</string>
+			<key>Persistent ID</key><string>D715B6BD0BA2C6BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/2-07%20Solitude%20Is%20Bliss%20(Mickey%20Moonlight%20T.A.M%20Remix).m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1389</key>
+		<dict>
+			<key>Track ID</key><integer>1389</integer>
+			<key>Name</key><string>41 Mojitos Poolside Dub</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13078679</integer>
+			<key>Total Time</key><integer>379133</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:16Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>3016</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>41 Mojitos Poolside Dub</string>
+			<key>Persistent ID</key><string>02EE81169741E92E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/2-08%2041%20Mojitos%20Poolside%20Dub.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1391</key>
+		<dict>
+			<key>Track ID</key><integer>1391</integer>
+			<key>Name</key><string>Canyons Sunrise Reprise</string>
+			<key>Artist</key><string>Tame Impala</string>
+			<key>Album Artist</key><string>Tame Impala</string>
+			<key>Composer</key><string>Kevin Parker</string>
+			<key>Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15891736</integer>
+			<key>Total Time</key><integer>466586</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2018-04-06T20:25:17Z</date>
+			<key>Date Added</key><date>2018-04-06T20:24:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-05-21T07:00:00Z</date>
+			<key>Normalization</key><integer>1138</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>InnerSpeaker (Collector's Edition)</string>
+			<key>Sort Artist</key><string>Tame Impala</string>
+			<key>Sort Name</key><string>Canyons Sunrise Reprise</string>
+			<key>Persistent ID</key><string>D363B3F777147797</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/atharvashukla/Music/iTunes/iTunes%20Media/Apple%20Music/Tame%20Impala/InnerSpeaker%20(Collector's%20Edition)/2-09%20Canyons%20Sunrise%20Reprise.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>2361</integer>
+			<key>Playlist Persistent ID</key><string>56B387FE583E9E4E</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1391</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>2820</integer>
+			<key>Playlist Persistent ID</key><string>9D89F8185B66A444</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1391</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>3275</integer>
+			<key>Playlist Persistent ID</key><string>AB781BE6A3DA205B</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1391</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>3743</integer>
+			<key>Playlist Persistent ID</key><string>082A9A1338B34E19</string>
+			<key>Distinguished Kind</key><integer>66</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>3746</integer>
+			<key>Playlist Persistent ID</key><string>327A44BAD9DABBBE</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>3752</integer>
+			<key>Playlist Persistent ID</key><string>A9B8E949E4CC962D</string>
+			<key>Distinguished Kind</key><integer>67</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>3755</integer>
+			<key>Playlist Persistent ID</key><string>28919D509EABA22A</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>3758</integer>
+			<key>Playlist Persistent ID</key><string>5AB5423514C83335</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Audiobooks</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>3765</integer>
+			<key>Playlist Persistent ID</key><string>E6091229BC62E670</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>
